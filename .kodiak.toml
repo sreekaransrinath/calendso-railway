@@ -1,0 +1,8 @@
+version = 1
+
+[update]
+autoupdate_label = "♻️ autoupdate"
+
+[approve]
+auto_approve_usernames = ["dependabot", "PeerRich", "baileypumfleet"]
+
